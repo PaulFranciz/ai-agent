@@ -4,8 +4,8 @@ A sophisticated AI chat application built with Next.js, featuring real-time conv
 
 ## Before You Get Started
 
-1. [Sign up for a Free Clerk account
-2. [Sign up for IBM's FREE WxFlows tool
+1.  Sign up for a Free Clerk account
+2.  Sign up for IBM's FREE WxFlows tool
 
 ## Features
 
@@ -97,7 +97,7 @@ ANTHROPIC_API_KEY=your_anthropic_api_key
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ibm-ai-agent.git
+git clone https://github.com/yourusername/ai-agent.git
 cd ibm-ai-agent
 ```
 
