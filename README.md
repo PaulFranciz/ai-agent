@@ -1,4 +1,4 @@
-built an AI Agent that can use Tools in NEXT.JS 15! (LangChain, Clerk, Convex, TS, IBM)
+An AI Agent that can use Tools in NEXT.JS 15! (LangChain, Clerk, Convex, TS, IBM)
 
 A sophisticated AI chat application built with Next.js, featuring real-time conversations, advanced prompt caching, and intelligent tool orchestration powered by LangChain and Claude 3.5 Sonnet.
 
